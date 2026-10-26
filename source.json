@@ -1,0 +1,36 @@
+
+{
+    "name": "ptgms Apps",
+    "subtitle": "Independent iOS apps made by ptgms",
+    "description": "Independent iOS apps made by ptgms",
+    "nsfw": true,
+    "apps": [
+      {
+        "name": "Greentxt",
+        "bundleIdentifier": "space.ptgms.greentxt",
+        "marketplaceID": "6826425285",
+        "developerName": "ptgms",
+        "subtitle": "4chan Browser for iOS",
+        "localizedDescription": "Browse 4chan on your iOS device.",
+        "iconURL": "https://repo.ptgms.space/apps/greentxt/icon.png",
+        "category": "social",
+        "screenshots": [],
+        "versions": [
+          {
+            "version": "1.0",
+            "buildVersion": "1",
+            "date": "2026-10-27",
+            "localizedDescription": "Initial release.",
+            "downloadURL": "https://repo.ptgms.space/apps/greentxt/1.0/manifest.json",
+            "size": 21668150
+          }
+        ],
+        "appPermissions": {
+          "entitlements": [],
+          "privacy": {}
+        }
+      }
+    ],
+    "news": []
+  }
+  
